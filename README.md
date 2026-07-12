@@ -21,6 +21,13 @@ This project is an interactive Power BI dashboard that analyzes employee attriti
 - Power Query
 - DAX
 - Microsoft Excel
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Git
+- GitHub
 
 ---
 
@@ -41,6 +48,19 @@ This project is an interactive Power BI dashboard that analyzes employee attriti
 - EverBenched
 - ExperienceInCurrentDomain
 - LeaveOrNot
+
+## 🐍 Python Analysis
+
+The repository also includes a Jupyter Notebook (`python/hr_analysis.ipynb`) for data analysis and preprocessing.
+
+### Tasks Performed
+
+- Data loading and inspection
+- Data cleaning
+- Exploratory Data Analysis (EDA)
+- Summary statistics
+- Data visualization using Matplotlib and Seaborn
+- Validation of insights used in the Power BI dashboard
 
 ---
 
@@ -119,12 +139,16 @@ The second dashboard focuses on attrition rate analysis to compare employee grou
 ## 📁 Project Structure
 
 ```text
+## 📁 Project Structure
+
 Employee-Attrition-Analysis
 │
 ├── Employee_Attrition_Dashboard.pbix
 ├── dashboard_page.png
 ├── dashboard_page2.png
-├── Employee.xlsx
+├── employee.xlsx
+├── python/
+│   └── hr_analysis.ipynb
 └── README.md
 ```
 
@@ -132,11 +156,13 @@ Employee-Attrition-Analysis
 
 ## 🚀 Skills Demonstrated
 
-- Data Cleaning using Power Query
+
+- Data Cleaning (Power Query & Python)
+- Exploratory Data Analysis (EDA)
 - Data Modeling
 - DAX Measures
 - KPI Design
-- Interactive Dashboard Design
+- Interactive Dashboard Development
 - Business Insight Generation
 - HR Analytics
 - Data Visualization
