@@ -144,9 +144,9 @@ The second dashboard focuses on attrition rate analysis to compare employee grou
 Employee-Attrition-Analysis
 │
 ├── Employee_Attrition_Dashboard.pbix
-├── dashboard_page.png
-├── dashboard_page2.png
-├── employee.xlsx
+├── Dashboard1_page.png
+├── Dashboard_page2.png
+├── employee_attrition_dataset.xlsx
 ├── python/
 │   └── hr_analysis.ipynb
 └── README.md
